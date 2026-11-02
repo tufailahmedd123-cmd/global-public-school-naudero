@@ -1,0 +1,6 @@
+{
+  "name": "Global Public School Naudero",
+  "description": "Official portal and management platform for Global Public School Naudero, Sindh, Pakistan - Building Bright Futures Through Quality Education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
